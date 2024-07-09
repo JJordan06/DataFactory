@@ -1,0 +1,9 @@
+{
+	"name": "jjordandatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9da71e02-4903-4d33-9f56-85067533ef8c",
+		"tenantId": "d2cf2e1b-40a6-4d0b-a907-729d373ba322"
+	}
+}
